@@ -205,6 +205,4 @@ ___
 ## Links
 [Наверх](#table-of-contents-)
 + Coming soon ...
-# Python-theory
-# Python-theory
-# Python-theory
+
